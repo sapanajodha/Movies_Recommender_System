@@ -42,12 +42,12 @@ Designed the frontend with st.selectbox for movie selection and st.columns(5) fo
 
 # Tech Stack
 
-Python 3.x
-Pandas
-NLTK (PorterStemmer)
-Streamlit
-Requests
-TMDB API
-Pickle
-CountVectorizer
+Python 3.x, 
+Pandas, 
+NLTK (PorterStemmer), 
+Streamlit, 
+Requests, 
+TMDB API, 
+Pickle, 
+CountVectorizer, 
 Cosine Similarity
