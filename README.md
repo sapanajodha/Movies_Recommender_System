@@ -31,9 +31,13 @@ Designed the frontend with st.selectbox for movie selection and st.columns(5) fo
 # Key Highlights
 
 1]Processed 5,000+ movies from the TMDB dataset with multi-field metadata fusion.
+
 2]Achieved sub-second recommendation latency using precomputed cosine similarity matrix.
+
 3]Integrated live TMDB API with fault-tolerant retry logic and fallback handling.
+
 4]Deployed as an interactive web app using Streamlit with optimized state caching.
+
 5]Modular, production-ready code structure with constants, typed functions, and clean separation of concerns.
 
 # Tech Stack
