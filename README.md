@@ -1,5 +1,6 @@
 Developed a Movie Recommender System using Python and Streamlit that recommends similar movies based on user selection. 
 The system uses machine learning similarity techniques and integrates the TMDB API to fetch real-time movie posters and details.
+
 Built an end-to-end content-based Movie Recommender System that suggests 5 similar movies based on a user-selected title. The system uses NLP-driven feature engineering on movie metadata (genres, cast, crew, keywords, overview) to compute cosine similarity between films, and delivers a clean interactive UI via Streamlit with real-time poster fetching from the TMDB API.
 
 # Module Breakdown
